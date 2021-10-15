@@ -1,2 +1,1 @@
-# to-do-app
-app to help us manage our daily task easily, used nodejs, reactjs, html and javascript
+this is an application of jdbc using mysql, java
